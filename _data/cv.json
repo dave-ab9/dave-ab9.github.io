@@ -33,30 +33,41 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of California, Irvine ",
+      "area": "Doctor of Philosophy (Cognitive Sciences)",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Expected 2026",
+      "gpa": "3.8/4",
+      "courses": []
+    },
+    
+    {
+      "institution": "University of California, Irvine ",
+      "area": "Master of Science (Statistics) ",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Expected 2025",
+      "gpa": "3.8/4",
+      "courses": []
+    },
+
+    {
+      "institution": "Birla Institute of Technology and Science, Pilani",
+      "area": "Master of Science with Honors (Biological Sciences)",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
-      "gpa": null,
+      "gpa": "8.2/10",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Birla Institute of Technology and Science, Pilani",
+      "area": "Bachelor of Engineering with Honors (Manufacturing Engineering)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2018",
+      "gpa": "8.2/10",
       "courses": []
     }
   ],
