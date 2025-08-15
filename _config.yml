@@ -28,7 +28,7 @@ author:
   name             : "Abhishek Dave"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral Candidate in Cognitive Sciences"
-  location         : "Irvine, California"
+  location         : "Orange County, California"
   employer         : "University of California, Irvine"
   uri              : # URL
   email            : "abhisd1@uci.edu" 
@@ -41,7 +41,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6186-027X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=abhishek+dave"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=abhishek+dave"
   researchgate     : # URL
   scopus           : # URL
 
