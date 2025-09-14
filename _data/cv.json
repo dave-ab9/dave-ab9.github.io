@@ -2,7 +2,6 @@
   "basics": {
     "name": "Abhishek Dave",
     "email": "abhisd1[at]uci[dot]edu",
-    #"phone": "",
     "website": "abhishekdave.com",
     "summary": "5th year PhD student in Cognitive Sciences at University of California, Irvine. Interested in sleep, brain dynamics, and memory in aging and neurodegenerative disorders. ",
     "location": {
@@ -67,7 +66,11 @@
     }
   ],
   "skills": [],
-  "languages": [{ "English (Bilingual), Hindi (Native), French (Elementary)"}],
+  "languages": [
+    { "language": "English", "fluency": "Bilingual" },
+    { "language": "Hindi", "fluency": "Native" },
+    { "language": "French", "fluency": "Elementary" }
+  ],
   "interests": [],
   "references": [],
   "publications": [
@@ -75,14 +78,7 @@
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
       "releaseDate": "2009-10-01",
-      "website": "http://dave-ab9.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://dave-ab9.github.io/files/paper1.pdf",
+      "website": "http://dave-ab9.github.io/files/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
